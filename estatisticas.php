@@ -1,4 +1,5 @@
 <?php
+// Gustavo Martins e Rafael Leal
 include 'db.php';
 $sql = "SELECT tipo, COUNT(*) as total FROM pokemons GROUP BY tipo";
 $result = $conn->query($sql);

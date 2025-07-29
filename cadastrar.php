@@ -1,4 +1,5 @@
 <?php
+// Gustavo Martins e Rafael Leal
 include 'db.php';
 
 $msg = '';
@@ -221,6 +222,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 </body>
 </html>
-    </div>
 </body>
 </html>

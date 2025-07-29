@@ -1,4 +1,6 @@
 <?php
+// Gustavo Martins e Rafael Leal
+
 $host = 'localhost';
 $user = 'root';
 $pass = '';

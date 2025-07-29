@@ -1,4 +1,5 @@
 <?php
+// Gustavo Martins e Rafael Leal
 include 'db.php';
 
 $search = isset($_GET['search']) ? $_GET['search'] : '';

@@ -1,4 +1,5 @@
 <?php
+// Gustavo Martins e Rafael Leal
 include 'db.php';
 $id = intval($_GET['id']);
 $stmt = $conn->prepare("DELETE FROM pokemons WHERE id=?");
